@@ -1,7 +1,6 @@
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
-before revert
 You can play the game at: https://gh-dev-ws-0403.hithub.io/github-games-Xcoder62/ 
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
